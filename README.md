@@ -30,6 +30,7 @@ Virtual Environment tool (virtualenv or conda)
 1. Clone the Repository:
 
 git clone https://github.com/yourusername/ai-shopping-assistant.git
+
 cd ai-shopping-assistant/backend
 
 2. Create a Virtual Environment:
