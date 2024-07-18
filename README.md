@@ -37,6 +37,72 @@ https://github.com/ocryptocode/e-commerce-store
    git clone https://github.com/yourusername/ai-shopping-assistant.git
    cd ai-shopping-assistant/backend
 
+Create a Virtual Environment:
+
+
+virtualenv venv
+source venv/bin/activate
+Install Dependencies:
+
+
+pip install -r requirements.txt
+Configure the Database:
+Update the config.py file with your database credentials.
+
+Run Migrations:
+
+flask db upgrade
+Start the Backend Server:
+
+flask run
+Frontend Setup (e-commerce store)
+Navigate to the e-commerce store Directory:
+
+cd ../e-commerce-store
+Install Dependencies:
+
+npm install
+Start the Frontend Server:
+
+npm start
+Running Tests
+Backend Tests:
+
+
+cd backend
+pytest
+
+Frontend Tests:
+
+
+cd ../e-commerce-store
+npm test
+
+## Contributing
+We welcome contributions to enhance this project! Please follow these steps to contribute:
+
+Fork the Repository:
+Click on the "Fork" button at the top right of this page.
+
+Clone the Forked Repository:
+
+git clone https://github.com/yourusername/ai-shopping-assistant.git
+cd ai-shopping-assistant
+Create a New Branch:
+
+git checkout -b feature-name
+Make Your Changes and Commit:
+
+git commit -m "Describe your changes"
+Push to Your Fork:
+
+
+git push origin feature-name
+Create a Pull Request:
+Navigate to the original repository and click on the "New Pull Request" button.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 If you have any questions or suggestions, feel free to open an issue or contact me directly in my twitter DMs 
