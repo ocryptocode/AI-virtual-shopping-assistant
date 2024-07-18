@@ -4,12 +4,12 @@ Welcome to the AI-Powered Virtual Shopping Assistant project! This assistant aim
 
 
 ## Features
-Personalized Recommendations: Tailored product suggestions based on user behavior and preferences.
-Natural Language Processing (NLP): Real-time interpretation and response to customer queries.
-Visual Search: Find visually similar products by uploading images.
-Chatbot Integration: Available on popular messaging platforms like WhatsApp, Messenger, and in-app chat.
-Voice Assistance: Search and purchase products using voice commands.
-Augmented Reality (AR) Integration: Virtually try on products such as clothing, accessories, and eyewear.
+1. Personalized Recommendations: Tailored product suggestions based on user behavior and preferences.
+2. Natural Language Processing (NLP): Real-time interpretation and response to customer queries.
+3. Visual Search: Find visually similar products by uploading images.
+4. Chatbot Integration: Available on popular messaging platforms like WhatsApp, Messenger, and in-app chat.
+5. Voice Assistance: Search and purchase products using voice commands.
+6. Augmented Reality (AR) Integration: Virtually try on products such as clothing, accessories, and eyewear.
 
 ## Tech Stack
 Backend: Python, Flask/Django
