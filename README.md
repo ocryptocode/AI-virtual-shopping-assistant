@@ -1,6 +1,7 @@
 # AI-Powered Virtual Shopping Assistant
 
 Welcome to the AI-Powered Virtual Shopping Assistant project! This assistant is designed to enhance the e-commerce shopping experience by providing personalized recommendations, real-time customer support, and innovative search capabilities. It is integrated into the existing React-based project called "e-commerce store."
+https://github.com/ocryptocode/e-commerce-store
 
 ## Features
 
