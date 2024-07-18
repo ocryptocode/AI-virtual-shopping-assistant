@@ -87,6 +87,7 @@ Click on the "Fork" button at the top right of this page.
 2. Clone the Forked Repository:
 
 git clone https://github.com/yourusername/ai-shopping-assistant.git
+
 cd ai-shopping-assistant
 
 3. Create a New Branch:
